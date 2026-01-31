@@ -1,0 +1,16 @@
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net9.0\MiniDARMAS.Data.deps.json
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net9.0\MiniDARMAS.Data.dll
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net9.0\MiniDARMAS.Data.pdb
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net9.0\MiniDARMAS.Models.dll
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net9.0\MiniDARMAS.Models.pdb
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net9.0\MiniDARMAS.Data.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net9.0\MiniDARMAS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net9.0\MiniDARMAS.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net9.0\MiniDARMAS.Data.AssemblyInfo.cs
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net9.0\MiniDARMAS.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net9.0\MiniDARMAS.Data.sourcelink.json
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net9.0\MiniDARM.C6444FA8.Up2Date
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net9.0\MiniDARMAS.Data.dll
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net9.0\refint\MiniDARMAS.Data.dll
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net9.0\MiniDARMAS.Data.pdb
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net9.0\ref\MiniDARMAS.Data.dll

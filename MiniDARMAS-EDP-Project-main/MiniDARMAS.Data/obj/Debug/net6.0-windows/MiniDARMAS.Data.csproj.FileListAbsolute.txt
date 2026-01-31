@@ -1,0 +1,62 @@
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Data.deps.json
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Data.dll
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Data.pdb
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Models.dll
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Models.pdb
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.csproj.AssemblyReference.cache
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.AssemblyInfoInputs.cache
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.AssemblyInfo.cs
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.sourcelink.json
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARM.C6444FA8.Up2Date
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.dll
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\obj\Debug\net6.0-windows\refint\MiniDARMAS.Data.dll
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.pdb
+C:\Users\hp\MiniDARMAS-Complete\New folder\MiniDARMAS.Data\obj\Debug\net6.0-windows\ref\MiniDARMAS.Data.dll
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Data.deps.json
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Data.dll
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Data.pdb
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Models.dll
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Models.pdb
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.AssemblyInfo.cs
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.sourcelink.json
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARM.C6444FA8.Up2Date
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.dll
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\refint\MiniDARMAS.Data.dll
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.pdb
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\ref\MiniDARMAS.Data.dll
+C:\Users\Shaho\Downloads\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Data.deps.json
+C:\Users\Shaho\Downloads\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Data.dll
+C:\Users\Shaho\Downloads\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Data.pdb
+C:\Users\Shaho\Downloads\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Models.dll
+C:\Users\Shaho\Downloads\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Models.pdb
+C:\Users\Shaho\Downloads\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.csproj.AssemblyReference.cache
+C:\Users\Shaho\Downloads\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaho\Downloads\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.AssemblyInfoInputs.cache
+C:\Users\Shaho\Downloads\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.AssemblyInfo.cs
+C:\Users\Shaho\Downloads\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Shaho\Downloads\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARM.C6444FA8.Up2Date
+C:\Users\Shaho\Downloads\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.dll
+C:\Users\Shaho\Downloads\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\refint\MiniDARMAS.Data.dll
+C:\Users\Shaho\Downloads\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.pdb
+C:\Users\Shaho\Downloads\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\ref\MiniDARMAS.Data.dll
+C:\Users\hp\Downloads\Telegram Desktop\MiniDARMAS-EDP-Project-main 3\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Data.deps.json
+C:\Users\hp\Downloads\Telegram Desktop\MiniDARMAS-EDP-Project-main 3\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Data.dll
+C:\Users\hp\Downloads\Telegram Desktop\MiniDARMAS-EDP-Project-main 3\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Data.pdb
+C:\Users\hp\Downloads\Telegram Desktop\MiniDARMAS-EDP-Project-main 3\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Models.dll
+C:\Users\hp\Downloads\Telegram Desktop\MiniDARMAS-EDP-Project-main 3\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\bin\Debug\net6.0-windows\MiniDARMAS.Models.pdb
+C:\Users\hp\Downloads\Telegram Desktop\MiniDARMAS-EDP-Project-main 3\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\Telegram Desktop\MiniDARMAS-EDP-Project-main 3\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\Telegram Desktop\MiniDARMAS-EDP-Project-main 3\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\Telegram Desktop\MiniDARMAS-EDP-Project-main 3\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.AssemblyInfo.cs
+C:\Users\hp\Downloads\Telegram Desktop\MiniDARMAS-EDP-Project-main 3\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\Telegram Desktop\MiniDARMAS-EDP-Project-main 3\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARM.C6444FA8.Up2Date
+C:\Users\hp\Downloads\Telegram Desktop\MiniDARMAS-EDP-Project-main 3\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.dll
+C:\Users\hp\Downloads\Telegram Desktop\MiniDARMAS-EDP-Project-main 3\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\refint\MiniDARMAS.Data.dll
+C:\Users\hp\Downloads\Telegram Desktop\MiniDARMAS-EDP-Project-main 3\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\MiniDARMAS.Data.pdb
+C:\Users\hp\Downloads\Telegram Desktop\MiniDARMAS-EDP-Project-main 3\MiniDARMAS-EDP-Project-main (2)\MiniDARMAS-EDP-Project-main\MiniDARMAS.Data\obj\Debug\net6.0-windows\ref\MiniDARMAS.Data.dll

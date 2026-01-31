@@ -1,0 +1,251 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|c:\\users\\hp\\downloads\\telegram desktop\\minidarmas-edp-project-main 3\\minidarmas-edp-project-main (2)\\minidarmas-edp-project-main\\minidarmas\\approverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|solutionrelative:minidarmas\\approverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|c:\\users\\hp\\downloads\\telegram desktop\\minidarmas-edp-project-main 3\\minidarmas-edp-project-main (2)\\minidarmas-edp-project-main\\minidarmas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|solutionrelative:minidarmas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\minidarmas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|solutionrelative:minidarmas\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|c:\\users\\hp\\downloads\\telegram desktop\\minidarmas-edp-project-main 3\\minidarmas-edp-project-main (2)\\minidarmas-edp-project-main\\minidarmas\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|solutionrelative:minidarmas\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|c:\\users\\hp\\downloads\\telegram desktop\\minidarmas-edp-project-main 3\\minidarmas-edp-project-main (2)\\minidarmas-edp-project-main\\minidarmas\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|solutionrelative:minidarmas\\loginform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50B95E-FDB5-4A72-B1EA-8B5201980B96}|MiniDARMAS.Business\\MiniDARMAS.Business.csproj|c:\\users\\hp\\downloads\\telegram desktop\\minidarmas-edp-project-main 3\\minidarmas-edp-project-main (2)\\minidarmas-edp-project-main\\minidarmas.business\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE50B95E-FDB5-4A72-B1EA-8B5201980B96}|MiniDARMAS.Business\\MiniDARMAS.Business.csproj|solutionrelative:minidarmas.business\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|c:\\users\\hp\\downloads\\telegram desktop\\minidarmas-edp-project-main 3\\minidarmas-edp-project-main (2)\\minidarmas-edp-project-main\\minidarmas\\transcriberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|solutionrelative:minidarmas\\transcriberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|c:\\users\\hp\\downloads\\telegram desktop\\minidarmas-edp-project-main 3\\minidarmas-edp-project-main (2)\\minidarmas-edp-project-main\\minidarmas\\minidarmas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|solutionrelative:minidarmas\\minidarmas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE50B95E-FDB5-4A72-B1EA-8B5201980B96}|MiniDARMAS.Business\\MiniDARMAS.Business.csproj|c:\\users\\hp\\downloads\\telegram desktop\\minidarmas-edp-project-main 3\\minidarmas-edp-project-main (2)\\minidarmas-edp-project-main\\minidarmas.business\\minidarmas.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE50B95E-FDB5-4A72-B1EA-8B5201980B96}|MiniDARMAS.Business\\MiniDARMAS.Business.csproj|solutionrelative:minidarmas.business\\minidarmas.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6A2D897-F07E-4BBE-8BE3-6C7F0D41D416}|MiniDARMAS.Data\\MiniDARMAS.Data.csproj|c:\\users\\hp\\downloads\\telegram desktop\\minidarmas-edp-project-main 3\\minidarmas-edp-project-main (2)\\minidarmas-edp-project-main\\minidarmas.data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6A2D897-F07E-4BBE-8BE3-6C7F0D41D416}|MiniDARMAS.Data\\MiniDARMAS.Data.csproj|solutionrelative:minidarmas.data\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\minidarmas\\transcriberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|solutionrelative:minidarmas\\transcriberform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\minidarmas\\editorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|solutionrelative:minidarmas\\editorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\minidarmas\\approverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C0504517-9050-435E-94BF-51807DD40625}|MiniDARMAS\\MiniDARMAS.csproj|solutionrelative:minidarmas\\approverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TranscriberForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\TranscriberForm.cs",
+              "RelativeDocumentMoniker": "MiniDARMAS\\TranscriberForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\TranscriberForm.cs",
+              "RelativeToolTip": "MiniDARMAS\\TranscriberForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:26:03.796Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "MiniDARMAS\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\LoginForm.Designer.cs",
+              "RelativeToolTip": "MiniDARMAS\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:35:23.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\LoginForm.cs",
+              "RelativeDocumentMoniker": "MiniDARMAS\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\LoginForm.cs [Design]",
+              "RelativeToolTip": "MiniDARMAS\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:04:58.621Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\LoginForm.cs",
+              "RelativeDocumentMoniker": "MiniDARMAS\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\LoginForm.cs",
+              "RelativeToolTip": "MiniDARMAS\\LoginForm.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:50:25.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApproverForm.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\ApproverForm.cs",
+              "RelativeDocumentMoniker": "MiniDARMAS\\ApproverForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\ApproverForm.cs",
+              "RelativeToolTip": "MiniDARMAS\\ApproverForm.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAkwGgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T14:05:21.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\LoginForm.resx",
+              "RelativeDocumentMoniker": "MiniDARMAS\\LoginForm.resx",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\LoginForm.resx",
+              "RelativeToolTip": "MiniDARMAS\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-30T04:10:31.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS.Business\\Logger.cs",
+              "RelativeDocumentMoniker": "MiniDARMAS.Business\\Logger.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS.Business\\Logger.cs",
+              "RelativeToolTip": "MiniDARMAS.Business\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T08:31:29.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MiniDARMAS",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\MiniDARMAS.csproj",
+              "RelativeDocumentMoniker": "MiniDARMAS\\MiniDARMAS.csproj",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\MiniDARMAS.csproj",
+              "RelativeToolTip": "MiniDARMAS\\MiniDARMAS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-30T08:04:09.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAG4NAAAAAAAAAAAkwHINAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-30T08:01:27.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MiniDARMAS.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS.Business\\MiniDARMAS.Business.csproj",
+              "RelativeDocumentMoniker": "MiniDARMAS.Business\\MiniDARMAS.Business.csproj",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS.Business\\MiniDARMAS.Business.csproj",
+              "RelativeToolTip": "MiniDARMAS.Business\\MiniDARMAS.Business.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-30T07:38:32.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS.Data\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "MiniDARMAS.Data\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS.Data\\DatabaseHelper.cs",
+              "RelativeToolTip": "MiniDARMAS.Data\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T15:42:07.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TranscriberForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\TranscriberForm.cs",
+              "RelativeDocumentMoniker": "MiniDARMAS\\TranscriberForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\TranscriberForm.cs [Design]",
+              "RelativeToolTip": "MiniDARMAS\\TranscriberForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:18:15.008Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\EditorForm.cs",
+              "RelativeDocumentMoniker": "MiniDARMAS\\EditorForm.cs",
+              "ToolTip": "C:\\Users\\Shaho\\Downloads\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\EditorForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Shaho\\Downloads\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\EditorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:15:41.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApproverForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\ApproverForm.cs",
+              "RelativeDocumentMoniker": "MiniDARMAS\\ApproverForm.cs",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\Telegram Desktop\\MiniDARMAS-EDP-Project-main 3\\MiniDARMAS-EDP-Project-main (2)\\MiniDARMAS-EDP-Project-main\\MiniDARMAS\\ApproverForm.cs [Design]",
+              "RelativeToolTip": "MiniDARMAS\\ApproverForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-28T13:11:51.654Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

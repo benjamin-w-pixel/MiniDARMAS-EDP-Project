@@ -1,0 +1,6 @@
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Business\obj\Debug\net9.0\MiniDARMAS.Business.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Business\obj\Debug\net9.0\MiniDARMAS.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Business\obj\Debug\net9.0\MiniDARMAS.Business.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Business\obj\Debug\net9.0\MiniDARMAS.Business.AssemblyInfo.cs
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Business\obj\Debug\net9.0\MiniDARMAS.Business.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\MiniDARMAS-EDP-Project-main\MiniDARMAS-EDP-Project-main\MiniDARMAS.Business\obj\Debug\net9.0\MiniDARMAS.Business.sourcelink.json
